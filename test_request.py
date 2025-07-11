@@ -1,6 +1,6 @@
 import requests
 
-url = "http://127.0.0.1:8000/predict"
+url = "http://stokejo.com:5050/predict"
 payload = {
     "Popularity": 60,
     "danceability": 0.85,
